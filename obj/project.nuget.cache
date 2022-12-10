@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9UapfIx11nAfcZpnt4ns/XWeeO1gwWEsopDe4FTSyRzy1vzn+2TqCuAE0yXRSRvE3rBmsezNnX2ED9yC4LXJYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lutse\\OneDrive\\Рабочий стол\\C#\\Test\\TgWeatherBot\\TgWeatherBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lutse\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Lutse\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
